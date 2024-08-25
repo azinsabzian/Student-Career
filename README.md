@@ -1,2 +1,2 @@
 # Student-Career
-Organizing a list of students based on their interests in future careers and categorizing them into two career paths.
+This project organizes 50 students based on their interests in future careers. The students are categorized into two career paths: Math or Biology.
